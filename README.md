@@ -18,11 +18,11 @@ pip install -r requirements.txt
 
 
 # run the main app:
-python Main.py
+python src/Main.py
 
 # or one of the examples
 
-python examples/t05.py
+python src/examples/t10.py
 
 ```
 
